@@ -37,4 +37,4 @@ Besides,I'm preparing to study about algorithm and C++, and I will also update m
 
 
 
-此外，我现在准备开始学习一些算法和C++,如果我还记得的话我也会把我的进展发布在这里。
+此外，我现在准备开始学习一些算法和C++,如果我还记得的话后期我也会把我的进展发布在这里。
