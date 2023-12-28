@@ -2,6 +2,9 @@
 
 
 #English version
+
+
+
 Being a freshman in AHU and majoring in computer science, I just would like to share my experience with other peers and of course I would like to recieve requests from masters which would definitely help me a lot.
 
 
@@ -19,6 +22,9 @@ Besides,I'm preparing to study about algorithm and C++, and I will also update m
 
 
 #中文版本
+
+
+
 作为安徽大学的计算机专业的一名新生，我很乐意和其他同龄人分享我的编程经验。当然，我也很欢迎编程大佬不介意这些非常基础简单的代码并为我提供一些建议。
 
 
