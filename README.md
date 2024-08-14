@@ -1,4 +1,13 @@
-# C-language-practise
+# C++language_practise
+
+
+
+#New update in 2024.8.14
+
+
+
+Update my progess in learning c++. Through studying c++ primer plus, I run some code on my ide and now I update those files.
+
 
 
 #English version
